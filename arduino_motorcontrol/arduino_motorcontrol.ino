@@ -29,7 +29,7 @@ const int DISTANCE_THRESHOLD = 400;
 const int MOTOR_POWER = 200; // PWM出力（0〜255）
 
 // --- モーター制御関数 ---
-//小回りきかせたかったので2WD RRにした
+//小回りきかせたかったので2WD RRのようにした
 void moveForward() {
   analogWrite(LM_A, MOTOR_POWER); analogWrite(LM_B, 0);
   analogWrite(LM2_A, MOTOR_POWER); analogWrite(LM2_B, 0);
