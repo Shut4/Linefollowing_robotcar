@@ -1,4 +1,4 @@
-<img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/266f6559-e78c-4e0f-a6b7-a018e3e02aed" /># Raspberry Pi x Arduino 4WD Linefollowing_robotcar
+# Raspberry Pi x Arduino 4WD Linefollowing_robotcar
 始めてそれっぽいのが出来たのでうれしい。
 ただ、以下の問題があるため、改善の余地あり。
 * カメラの画素数やデッドバンドの調整の関係で画像処理精度がまだ低い
