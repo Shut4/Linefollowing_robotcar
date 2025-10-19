@@ -83,5 +83,5 @@ PCから切り離した後に自動で実行するには、`systemd`サービス
 
 <img width="983" height="840" alt="image" src="https://github.com/user-attachments/assets/4997f662-c3a2-4bf2-8101-adbbb86b67b5" />
 <img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/653e9e47-1019-4085-ba2e-182755486fc5" />
-
-
+<img width="780" height="729" alt="image" src="https://github.com/user-attachments/assets/d88dcd5a-4620-453b-b6f9-a20929b9d670" />
+※L298NのGNDが分からなかったので回路図上では切り離しています。実際にはモータドライバ（Maker Drive）を使用していました。
